@@ -1,0 +1,37 @@
+
+.fullCartItem:hover{
+   background-color: rgb(243, 243, 243);
+}
+
+
+
+
+
+.fa-trash-can, .faSquareMinus, .faSquarePlus{
+   color: #737373;
+   cursor: pointer;
+}
+
+.fa-trash-can:hover{
+   color: red;
+   transform: scale(1.1);
+}
+.trash-can:hover .cartItem{
+   background-color: red;
+   border: 3px solid red;
+   transform: scale(0.8);
+   color: red;
+}
+
+
+.faSquareMinus:hover, .faSquarePlus:hover{
+   color: black;
+   transform: scale(1.1);
+}
+
+
+.productsType{
+   width: 250px;
+}
+
+

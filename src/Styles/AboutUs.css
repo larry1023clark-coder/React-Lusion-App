@@ -1,0 +1,38 @@
+
+
+.section1h1{
+   font-size: 120px;
+   border-right: 1px solid gray;
+   padding-right: 30px;
+   line-height: 109px;
+   letter-spacing: -7px;
+}
+.section1i{
+   font-size: 50px;
+}
+
+
+
+.sec2Icon{
+   width: 90px;
+   height: 90px;
+   border-radius: 50%;
+   text-align: center;
+   line-height: 7;
+   border: 1px solid white;
+   margin-top: -90px;
+   transition: all .5s;
+}
+
+.sec2:hover .sec2Icon{
+   transform: translateY(-6px);
+}
+
+
+
+.sec3Image{
+   transition: all .5s;
+}
+.sec3:hover .sec3Image{
+   transform: translateY(-6px);
+}

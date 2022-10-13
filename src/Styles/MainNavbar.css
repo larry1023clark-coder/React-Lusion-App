@@ -1,0 +1,64 @@
+
+
+
+
+.myBrand, Offcanvas.Title{
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+   font-size: 30px !important;
+   text-transform: uppercase;
+   font-weight: 900  !important;
+
+}
+
+
+
+.NavLink{
+   font-size: 20px !important;
+   text-decoration: none;
+   color: rgb(80, 80, 80);
+}
+.NavLink:hover{
+   /* font-weight: 900  !important; */
+   color: black;
+   transform: scale(1.15);
+}
+.active{
+   /* font-weight: 900  !important; */
+   color: black;
+   transform: scale(1.15);
+}
+
+
+
+
+.Link-dropdown{
+   color: black;
+   text-decoration: none;
+}
+.Link-dropdown:hover{
+   color: black;
+   text-decoration: none;
+}
+
+.dropdown-menu{
+   border-radius: 0cm !important;
+}
+
+
+
+
+
+
+.basket-shopping{
+   color: black;
+}
+.fa-user-large{
+   color: black;
+   text-decoration: none !important;
+}
+.fa-basket-shopping-nav:hover, .fa-user-large:hover{
+   cursor: pointer;
+   color: #5a5a5a;
+}
+
+

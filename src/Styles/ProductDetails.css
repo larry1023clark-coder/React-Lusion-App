@@ -1,0 +1,99 @@
+:root{
+   --dYellow:  #FFD700 ;
+}
+
+.socialShareP{
+   width: 50px;
+   height: 50px;
+   color: white;
+   line-height: 2.3;
+   text-align: center;
+   font-size: 22px;
+}
+
+.Share-F{
+   background-color: rgb(0, 81, 255);
+}
+
+.Share-T{
+   background-color: rgb(22, 185, 235);
+}
+.Share-S{
+   background-color: rgb(97, 179, 97);
+}
+
+
+.cursor-pointer{
+   cursor: pointer;
+}
+
+
+
+
+
+
+ /* evaluation stars classes */
+ .s5::after{
+   position: absolute;
+   content: "\f005 \f005 \f005 \f005 \f005";
+   color: var(--dYellow);
+}
+.s4-5::after{
+   position: absolute;
+   content: "\f005 \f005 \f005 \f005 \f123";
+   color: var(--dYellow);
+}
+.s4::after{
+   position: absolute;
+   content: "\f005 \f005 \f005 \f005 \f006";
+   color: var(--dYellow);
+}
+.s3-5::after{
+   position: absolute;
+   content: "\f005 \f005 \f005 \f123 \f006";
+   color: var(--dYellow);
+}
+.s3::after{
+   position: absolute;
+   content: "\f005 \f005 \f005 \f006 \f006";
+   color: var(--dYellow);
+}
+.s2-5::after{
+   position: absolute;
+   content: "\f005 \f005 \f123 \f006 \f006";
+   color: var(--dYellow);
+}
+.s2::after{
+   position: absolute;
+   content: "\f005 \f005 \f006 \f006 \f006";
+   color: var(--dYellow);
+}
+.s1-5::after{
+   position: absolute;
+   content: "\f005 \f123 \f006 \f006 \f006";
+   color: var(--dYellow);
+}
+.s1::after{
+   position: absolute;
+   content: "\f005 \f006 \f006 \f006 \f006";
+   color: var(--dYellow);
+}
+.s0-5::after{
+   position: absolute;
+   content: "\f123 \f006 \f006 \f006 \f006";
+   color: var(--dYellow);
+}
+.s0::after{
+   position: absolute;
+   content: "\f006 \f006 \f006 \f006 \f006";
+   color: var(--dYellow);
+}
+
+
+
+
+
+
+.modal-content{
+   border-radius: 0% !important;
+}

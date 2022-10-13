@@ -1,0 +1,6 @@
+.SectionsHImgs:hover{
+   cursor: pointer;
+   transform:scale(1.15);
+   transition: all ease .6s;
+
+}

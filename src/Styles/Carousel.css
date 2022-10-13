@@ -1,0 +1,19 @@
+
+
+.MyCaption{
+   color: black;
+   font-size: 80px;
+   font-weight: bold;
+   position: absolute;
+   left: 10%;
+   top: 50%;
+   transform: translate(0, -50%);
+}
+
+
+
+@media (max-width: 991px){
+   .MyCaption{
+      font-size: 25px;
+   }
+}

@@ -1,0 +1,64 @@
+
+
+.contactIcon{
+   width: 44px;
+   height: 44px;
+   border-radius: 50%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   line-height: 2;
+   font-size: 23px;
+   margin-right: 20px;
+}
+
+
+.infoLink{
+   color: #707070;
+   text-decoration: none;
+}
+.infoLink:hover{
+   color: #000000;
+}
+
+
+
+.contactUsImg{
+   width: 100%;
+   max-width: 100%;
+   min-height: 736px;
+   object-fit: cover;
+   object-position: right;
+}
+
+
+.formSide{
+   background-color: #2c2c2c;
+   color: white;
+}
+
+.formInput{
+   background-color: #2c2c2c !important;
+   border: none !important;
+   border-radius: 0cm !important;
+   border-bottom: 1px solid white !important;
+   color: white !important;
+}
+.formInput::placeholder{
+   color: white !important;
+}
+.formInput:focus{
+   box-shadow: none !important;
+}
+
+
+.formButton{
+   border-radius: 0cm !important;
+   border-color: white !important;
+   color: white !important;
+   margin-top: 15px;
+}
+.formButton:hover{
+   background-color: white !important;
+   color: black !important;
+}

@@ -1,0 +1,28 @@
+
+
+.merryChri{
+   margin-top: 10%;
+   margin-bottom: 10%;
+}
+
+
+.christmas{
+   height: 600px;
+   background-color: #F4F4F4;
+   background-image: url(../images/banner-2.png);
+   background-position: center;
+   background-size: cover;
+
+
+}
+.christmas h1, .christmas2 h1{
+   color: #353535;
+   font-weight: 900;
+   font-size: 60px;
+}
+
+
+.christmas2{
+   height: 600px;
+   background-color: #F4F4F4;
+}
